@@ -35,3 +35,5 @@ tb_clock.v        仿真测试文件
 - 1秒计数器：50MHz × 1s = 50,000,000 个时钟周期
 - 扫描频率：1kHz（每位约1ms刷新，视觉无闪烁）
 - 进位逻辑：秒→分→时，满60/24自动归零
+## 仿真波形
+![Simulation Waveform](simulation.png)
